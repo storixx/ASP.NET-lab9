@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rr+hiTs+/L5j9d1KU31gCowyBcXhVzHpiup45i2uC3dgOzI0uejYIeMVtHqjJxZ9WoPooT5tGeINBHH3a4JOkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Storix\\RiderProjects\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Storix\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
